@@ -74,7 +74,7 @@ If you have migrated to the new feed types, your feed type for catalogue data is
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 See the `feed troubleshooting guide <https://www.rangespan.com/downloads/feed-troubleshooting.pdf>`_. This is also available at the `upload portal <https://www.rangespan.com/upload/>`_.
 
-3,5 I've just uploaded my feed and I want to check if the data has been uploaded correctly. How can I confirm this?
+3.5 I've just uploaded my feed and I want to check if the data has been uploaded correctly. How can I confirm this?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 If there are no errors with your feed upload, then your data has been uploaded successfully. You can check on the "Offers" tab on our website.
 
@@ -102,7 +102,7 @@ This is possible but before making the changes in your feed, the SKUs need to be
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 No, you should supply Rangespan with your complete inventory holding. One of the services we provide to retailers is to manage the posting and partition of inventory to retailers. If items go out-of stock (e.g. due to sales through another of your channels) we can mitigate this via our broad supplier network. When items do go out of stock you should update your inventory feed and submit it to us as soon as possible (and at least daily).
 
-3. 12 What shipping methods do we need to provide?
+3.12 What shipping methods do we need to provide?
 ++++++++++++++++++++++++++++++++++++++++++++
 The shipping methods to be offered by suppliers differ depending on the value of the item:
 
