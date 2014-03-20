@@ -243,5 +243,7 @@ latex_documents = [
 # How to display URL addresses: 'footnote', 'no', or 'inline'.
 #texinfo_show_urls = 'footnote'
 
-# Remove edit on github button. 
-display_github = False
+# Remove 'Edit on GitHub' button.
+html_context = {
+    'display_github': False,
+}
