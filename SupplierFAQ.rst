@@ -49,8 +49,6 @@ Note that all retailers require non-marked images with the products on a white b
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 This is not currently possible and we are working on picking these up with retailers. In the meantime, can you send us the highest resolution image URL or file and this will be presented as your product image.
 
---- Data Requirements section?
-
 2.3 I want to change the content/layout of my product(s) on a retailer website. What should I do?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 If you want to adjust the data that appears on retailer websites, make the necessary changes to your catalogue feed (i.e. item names, item descriptions, images) and upload it. Once done, email the catalogue feed to us with the highlighted changes. Note that, whilst we have more freedom over product data on Tesco, other retailers choose how to display data on their websites. Therefore, it may be difficult to apply your suggestions.
