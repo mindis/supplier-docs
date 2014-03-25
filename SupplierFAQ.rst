@@ -53,6 +53,44 @@ This is not currently possible and we are working on picking these up with retai
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 If you want to adjust the data that appears on retailer websites, make the necessary changes to your catalogue feed (i.e. item names, item descriptions, images) and upload it. Once done, email the catalogue feed to us with the highlighted changes. Note that, whilst we have more freedom over product data on Tesco, other retailers choose how to display data on their websites. Therefore, it may be difficult to apply your suggestions.
 
+2.4 Supplier Data Guidelines
+++++++++++++++++++++++++
+The catalogue file should include all product data to enable us to load, present and curate for our retail partners.
+
+- **Item name length:  50 characters**
+
+**[Brand/Manufacturer - Item name and/or function – Colour – Size – etc.]**
+
+For example: “Jake & The Neverland Pirates Triple Party Game Pack”
+
+This enables the product name to be identifiable and searchable by key words on the retailers’ website.
+
+This is an estimate of what we think allows sufficient context for the product, we will work with you to ensure the product match these specifications and we are able to capture as much as possible. 
+Some product categories or lines generate short item names (“Her” DVD for example) we need to include Brand/MPN or identifier to avoid product ambiguity, terms like ‘Blu-ray’, ‘Extended Edition’ and other for DVD are suitable for segmentation.
+
+- **Descriptions length:  250 characters minimum**
+
+Product/Range information (can be marketing or promotional information) followed by factual details about the specific product. 
+
+For example: 
+
+*“The New 2013 Reflex Range has been designed and specified by the Avocet team to make each model ideal for exploring tracks and trails, cutting down on car journeys or even shed a couple of extra kilos as part of a healthier life style. Reflex bikes offer a refreshing alternative to fluctuating fuel costs, congestion charges and credit crunches. The Reflex Cotswold is built around a solid high tensile steel frame, perfect for weekend jaunts or short commutes. It features a Shimano 18 speed indexed transmission that provides a gear for just about every situation, with intuitive twist shifting. Other features include lightweight alloy 700c rims, full mudguards, rear carrier, comfort saddle and a powerful V-brake system.”*
+
+We advise to put priority on factual statements about the product rather than marketing material.
+
+- **Additional Data: Useful for Enterprise retailers (where applicable)**
+
+Your input and suggestions are welcome here, the details we would like to see include:
+
+"+" Dimensions
+"+" Weight
+"+" Colour
+"+" Pack size
+"+" Accessories Included
+"+" Other applicable for product category
+
+Additional details allow us to complete integration and launch documents for enterprise retailers – all factual data allows scoping and presentational options with retailers on relevancy to consumers.
+
 3. FEEDS
 ========
 
