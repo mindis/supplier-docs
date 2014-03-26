@@ -19,7 +19,7 @@ No, there is no up-front registration fee or charge to list your products on Ran
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 The retailer pays for the service, it is completely free for a supplier to work with us.
 
-1.4 We can't drop-ship direct to individual end-customers from our warehouse, can I still be part of Rangespan's network?
+1.4 We can't dropship direct to individual end-customers from our warehouse, can I still be part of Rangespan's network?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Yes, we offer fulfillment services and can refer capable 3rd party fulfillment operations, so please get in touch to discuss. 
 
